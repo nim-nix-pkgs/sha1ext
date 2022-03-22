@@ -9,7 +9,7 @@
   
   inputs.src-sha1ext-master.flake = false;
   inputs.src-sha1ext-master.owner = "CORDEA";
-  inputs.src-sha1ext-master.ref   = "refs/heads/master";
+  inputs.src-sha1ext-master.ref   = "master";
   inputs.src-sha1ext-master.repo  = "sha1ext";
   inputs.src-sha1ext-master.type  = "github";
   
